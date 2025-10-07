@@ -1,0 +1,49 @@
+D:\Premnath\E\SBM Bank CARDE\SBM_API\API\Archana\Raksha_API_SVN_Code\Logger\bin\Release\Logger.dll
+D:\Premnath\E\SBM Bank CARDE\SBM_API\API\Archana\Raksha_API_SVN_Code\Logger\bin\Release\Logger.pdb
+D:\Premnath\E\SBM Bank CARDE\SBM_API\API\Archana\Raksha_API_SVN_Code\Logger\obj\Release\Logger.csprojResolveAssemblyReference.cache
+D:\Premnath\E\SBM Bank CARDE\SBM_API\API\Archana\Raksha_API_SVN_Code\Logger\obj\Release\Logger.dll
+D:\Premnath\E\SBM Bank CARDE\SBM_API\API\Archana\Raksha_API_SVN_Code\Logger\obj\Release\Logger.pdb
+D:\Premnath\E\SBM Bank CARDE\SBM_API\API\Raksha_SVN_Code\Logger\bin\Release\Logger.dll
+D:\Premnath\E\SBM Bank CARDE\SBM_API\API\Raksha_SVN_Code\Logger\bin\Release\Logger.pdb
+D:\Premnath\E\SBM Bank CARDE\SBM_API\API\Raksha_SVN_Code\Logger\obj\Release\Logger.csprojResolveAssemblyReference.cache
+D:\Premnath\E\SBM Bank CARDE\SBM_API\API\Raksha_SVN_Code\Logger\obj\Release\Logger.dll
+D:\Premnath\E\SBM Bank CARDE\SBM_API\API\Raksha_SVN_Code\Logger\obj\Release\Logger.pdb
+D:\Premnath\E\SBM Bank CARDE\SBM_API\API\Raksha\Logger\bin\Release\Logger.dll
+D:\Premnath\E\SBM Bank CARDE\SBM_API\API\Raksha\Logger\bin\Release\Logger.pdb
+D:\Premnath\E\SBM Bank CARDE\SBM_API\API\Raksha\Logger\obj\Release\Logger.csprojResolveAssemblyReference.cache
+D:\Premnath\E\SBM Bank CARDE\SBM_API\API\Raksha\Logger\obj\Release\Logger.dll
+D:\Premnath\E\SBM Bank CARDE\SBM_API\API\Raksha\Logger\obj\Release\Logger.pdb
+D:\SCRPT\Raksha\Logger\bin\Release\Logger.dll
+D:\SCRPT\Raksha\Logger\bin\Release\Logger.pdb
+D:\SCRPT\Raksha\Logger\obj\Release\Logger.csproj.CoreCompileInputs.cache
+D:\SCRPT\Raksha\Logger\obj\Release\Logger.dll
+D:\SCRPT\Raksha\Logger\obj\Release\Logger.pdb
+D:\ReValidation\Raksha\Logger\bin\Release\Logger.dll
+D:\ReValidation\Raksha\Logger\bin\Release\Logger.pdb
+D:\ReValidation\Raksha\Logger\obj\Release\Logger.csproj.CoreCompileInputs.cache
+D:\ReValidation\Raksha\Logger\obj\Release\Logger.dll
+D:\ReValidation\Raksha\Logger\obj\Release\Logger.pdb
+D:\ReValidation\Raksha\Logger\obj\Release\Logger.csprojAssemblyReference.cache
+D:\Raksha\Raksha\Logger\bin\Release\Logger.dll
+D:\Raksha\Raksha\Logger\bin\Release\Logger.pdb
+D:\Raksha\Raksha\Logger\obj\Release\Logger.csprojAssemblyReference.cache
+D:\Raksha\Raksha\Logger\obj\Release\Logger.csproj.CoreCompileInputs.cache
+D:\Raksha\Raksha\Logger\obj\Release\Logger.dll
+D:\Raksha\Raksha\Logger\obj\Release\Logger.pdb
+D:\SBM\Raksha\Raksha\Logger\bin\Release\Logger.dll
+D:\SBM\Raksha\Raksha\Logger\bin\Release\Logger.pdb
+D:\SBM\Raksha\Raksha\Logger\obj\Release\Logger.csproj.CoreCompileInputs.cache
+D:\SBM\Raksha\Raksha\Logger\obj\Release\Logger.dll
+D:\SBM\Raksha\Raksha\Logger\obj\Release\Logger.pdb
+D:\SBM\Raksha\Raksha - Copy\Logger\bin\Release\Logger.dll
+D:\SBM\Raksha\Raksha - Copy\Logger\bin\Release\Logger.pdb
+D:\SBM\Raksha\Raksha - Copy\Logger\obj\Release\Logger.csprojAssemblyReference.cache
+D:\SBM\Raksha\Raksha - Copy\Logger\obj\Release\Logger.csproj.CoreCompileInputs.cache
+D:\SBM\Raksha\Raksha - Copy\Logger\obj\Release\Logger.dll
+D:\SBM\Raksha\Raksha - Copy\Logger\obj\Release\Logger.pdb
+D:\SVN\API\Raksha\Logger\bin\Release\Logger.dll
+D:\SVN\API\Raksha\Logger\bin\Release\Logger.pdb
+D:\SVN\API\Raksha\Logger\obj\Release\Logger.csprojAssemblyReference.cache
+D:\SVN\API\Raksha\Logger\obj\Release\Logger.csproj.CoreCompileInputs.cache
+D:\SVN\API\Raksha\Logger\obj\Release\Logger.dll
+D:\SVN\API\Raksha\Logger\obj\Release\Logger.pdb

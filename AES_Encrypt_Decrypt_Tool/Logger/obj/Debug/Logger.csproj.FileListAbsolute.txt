@@ -1,0 +1,293 @@
+D:\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\Host Interface\MessageQue\MessageQueLogger\bin\Debug\Logger.dll
+D:\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\Host Interface\MessageQue\MessageQueLogger\bin\Debug\Logger.pdb
+D:\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\Host Interface\MessageQue\MessageQueLogger\bin\Debug\HostCommonDetails.dll
+D:\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\Host Interface\MessageQue\MessageQueLogger\bin\Debug\HostCommonDetails.pdb
+D:\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\Host Interface\MessageQue\MessageQueLogger\obj\Debug\Logger.csprojResolveAssemblyReference.cache
+D:\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\Host Interface\MessageQue\MessageQueLogger\obj\Debug\Logger.dll
+D:\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\Host Interface\MessageQue\MessageQueLogger\obj\Debug\Logger.pdb
+D:\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\Host Interface\HostInterface\MessageQueLogger\bin\Debug\Logger.dll
+D:\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\Host Interface\HostInterface\MessageQueLogger\bin\Debug\Logger.pdb
+D:\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\Host Interface\HostInterface\MessageQueLogger\bin\Debug\HostCommonDetails.dll
+D:\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\Host Interface\HostInterface\MessageQueLogger\bin\Debug\HostCommonDetails.pdb
+D:\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\Host Interface\HostInterface\MessageQueLogger\obj\Debug\Logger.csprojResolveAssemblyReference.cache
+D:\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\Host Interface\HostInterface\MessageQueLogger\obj\Debug\Logger.dll
+D:\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\Host Interface\HostInterface\MessageQueLogger\obj\Debug\Logger.pdb
+E:\Abhishek Work\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\Host Interface\HostInterface\MessageQueLogger\bin\Debug\Logger.dll
+E:\Abhishek Work\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\Host Interface\HostInterface\MessageQueLogger\bin\Debug\Logger.pdb
+E:\Abhishek Work\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\Host Interface\HostInterface\MessageQueLogger\bin\Debug\HostCommonDetails.dll
+E:\Abhishek Work\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\Host Interface\HostInterface\MessageQueLogger\bin\Debug\HostCommonDetails.pdb
+E:\Abhishek Work\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\Host Interface\HostInterface\MessageQueLogger\obj\Debug\Logger.csprojResolveAssemblyReference.cache
+E:\Abhishek Work\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\Host Interface\HostInterface\MessageQueLogger\obj\Debug\Logger.dll
+E:\Abhishek Work\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\Host Interface\HostInterface\MessageQueLogger\obj\Debug\Logger.pdb
+E:\Abhishek Work\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\Host Interface\HostInterface\MessageQueLogger\bin\Debug\EncryptionDecryption.dll
+E:\Abhishek Work\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\Host Interface\HostInterface\MessageQueLogger\bin\Debug\KEK.dll
+E:\Abhishek Work\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\HostInterface\MessageQueLogger\bin\Debug\Logger.dll
+E:\Abhishek Work\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\HostInterface\MessageQueLogger\bin\Debug\Logger.pdb
+E:\Abhishek Work\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\HostInterface\MessageQueLogger\bin\Debug\HostCommonDetails.dll
+E:\Abhishek Work\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\HostInterface\MessageQueLogger\bin\Debug\EncryptionDecryption.dll
+E:\Abhishek Work\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\HostInterface\MessageQueLogger\bin\Debug\KEK.dll
+E:\Abhishek Work\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\HostInterface\MessageQueLogger\bin\Debug\HostCommonDetails.pdb
+E:\Abhishek Work\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\HostInterface\MessageQueLogger\obj\Debug\Logger.csprojResolveAssemblyReference.cache
+E:\Abhishek Work\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\HostInterface\MessageQueLogger\obj\Debug\Logger.dll
+E:\Abhishek Work\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\HostInterface\MessageQueLogger\obj\Debug\Logger.pdb
+E:\Abhishek Work\Prathmik Bank\New ASP Code\HostInterface\MessageQueLogger\bin\Debug\Logger.dll
+E:\Abhishek Work\Prathmik Bank\New ASP Code\HostInterface\MessageQueLogger\bin\Debug\Logger.pdb
+E:\Abhishek Work\Prathmik Bank\New ASP Code\HostInterface\MessageQueLogger\bin\Debug\HostCommonDetails.dll
+E:\Abhishek Work\Prathmik Bank\New ASP Code\HostInterface\MessageQueLogger\bin\Debug\EncryptionDecryption.dll
+E:\Abhishek Work\Prathmik Bank\New ASP Code\HostInterface\MessageQueLogger\bin\Debug\KEK.dll
+E:\Abhishek Work\Prathmik Bank\New ASP Code\HostInterface\MessageQueLogger\bin\Debug\HostCommonDetails.pdb
+E:\Abhishek Work\Prathmik Bank\New ASP Code\HostInterface\MessageQueLogger\obj\Debug\Logger.csprojResolveAssemblyReference.cache
+E:\Abhishek Work\Prathmik Bank\New ASP Code\HostInterface\MessageQueLogger\obj\Debug\Logger.dll
+E:\Abhishek Work\Prathmik Bank\New ASP Code\HostInterface\MessageQueLogger\obj\Debug\Logger.pdb
+D:\Abhishek Work\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\HostInterface\MessageQueLogger\bin\Debug\Logger.dll
+D:\Abhishek Work\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\HostInterface\MessageQueLogger\bin\Debug\Logger.pdb
+D:\Abhishek Work\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\HostInterface\MessageQueLogger\bin\Debug\HostCommonDetails.dll
+D:\Abhishek Work\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\HostInterface\MessageQueLogger\bin\Debug\EncryptionDecryption.dll
+D:\Abhishek Work\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\HostInterface\MessageQueLogger\bin\Debug\KEK.dll
+D:\Abhishek Work\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\HostInterface\MessageQueLogger\bin\Debug\HostCommonDetails.pdb
+D:\Abhishek Work\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\HostInterface\MessageQueLogger\obj\Debug\Logger.csprojResolveAssemblyReference.cache
+D:\Abhishek Work\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\HostInterface\MessageQueLogger\obj\Debug\Logger.dll
+D:\Abhishek Work\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\HostInterface\MessageQueLogger\obj\Debug\Logger.pdb
+D:\Abhishek Work\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\Testing Host Interface with New changes\HostInterface\MessageQueLogger\bin\Debug\Logger.dll
+D:\Abhishek Work\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\Testing Host Interface with New changes\HostInterface\MessageQueLogger\bin\Debug\Logger.pdb
+D:\Abhishek Work\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\Testing Host Interface with New changes\HostInterface\MessageQueLogger\bin\Debug\HostCommonDetails.dll
+D:\Abhishek Work\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\Testing Host Interface with New changes\HostInterface\MessageQueLogger\bin\Debug\EncryptionDecryption.dll
+D:\Abhishek Work\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\Testing Host Interface with New changes\HostInterface\MessageQueLogger\bin\Debug\KEK.dll
+D:\Abhishek Work\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\Testing Host Interface with New changes\HostInterface\MessageQueLogger\bin\Debug\HostCommonDetails.pdb
+D:\Abhishek Work\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\Testing Host Interface with New changes\HostInterface\MessageQueLogger\obj\Debug\Logger.csprojResolveAssemblyReference.cache
+D:\Abhishek Work\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\Testing Host Interface with New changes\HostInterface\MessageQueLogger\obj\Debug\Logger.dll
+D:\Abhishek Work\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\Testing Host Interface with New changes\HostInterface\MessageQueLogger\obj\Debug\Logger.pdb
+D:\Bhutan Development Bank\HostInterface\MessageQueLogger\bin\Debug\Logger.dll
+D:\Bhutan Development Bank\HostInterface\MessageQueLogger\bin\Debug\Logger.pdb
+D:\Bhutan Development Bank\HostInterface\MessageQueLogger\bin\Debug\HostCommonDetails.dll
+D:\Bhutan Development Bank\HostInterface\MessageQueLogger\bin\Debug\EncryptionDecryption.dll
+D:\Bhutan Development Bank\HostInterface\MessageQueLogger\bin\Debug\KEK.dll
+D:\Bhutan Development Bank\HostInterface\MessageQueLogger\bin\Debug\HostCommonDetails.pdb
+D:\Bhutan Development Bank\HostInterface\MessageQueLogger\obj\Debug\Logger.csprojResolveAssemblyReference.cache
+D:\Bhutan Development Bank\HostInterface\MessageQueLogger\obj\Debug\Logger.dll
+D:\Bhutan Development Bank\HostInterface\MessageQueLogger\obj\Debug\Logger.pdb
+D:\Bhutan Development Bank\MicroATMController\MicroATMController\MicroATMLogger\bin\Debug\Logger.dll
+D:\Bhutan Development Bank\MicroATMController\MicroATMController\MicroATMLogger\bin\Debug\Logger.pdb
+D:\Bhutan Development Bank\MicroATMController\MicroATMController\MicroATMLogger\bin\Debug\MicroATM.CommonDetails.dll
+D:\Bhutan Development Bank\MicroATMController\MicroATMController\MicroATMLogger\bin\Debug\EncryptionDecryption.dll
+D:\Bhutan Development Bank\MicroATMController\MicroATMController\MicroATMLogger\bin\Debug\KEK.dll
+D:\Bhutan Development Bank\MicroATMController\MicroATMController\MicroATMLogger\bin\Debug\MicroATM.CommonDetails.pdb
+D:\Bhutan Development Bank\MicroATMController\MicroATMController\MicroATMLogger\obj\Debug\Logger.csprojResolveAssemblyReference.cache
+D:\Bhutan Development Bank\MicroATMController\MicroATMController\MicroATMLogger\obj\Debug\Logger.dll
+D:\Bhutan Development Bank\MicroATMController\MicroATMController\MicroATMLogger\obj\Debug\Logger.pdb
+D:\Bhutan Development Bank\MicroATMController\MicroATMController\Logger\bin\Debug\Logger.dll
+D:\Bhutan Development Bank\MicroATMController\MicroATMController\Logger\bin\Debug\Logger.pdb
+D:\Bhutan Development Bank\MicroATMController\MicroATMController\Logger\obj\Debug\Logger.dll
+D:\Bhutan Development Bank\MicroATMController\MicroATMController\Logger\obj\Debug\Logger.pdb
+D:\Bhutan Development Bank\MicroATMController\MicroATMController\Logger\obj\Debug\Logger.csprojResolveAssemblyReference.cache
+D:\Bhutan Development Bank\POSController\POSController\Logger\bin\Debug\Logger.dll
+D:\Bhutan Development Bank\POSController\POSController\Logger\bin\Debug\Logger.pdb
+D:\Bhutan Development Bank\POSController\POSController\Logger\obj\Debug\Logger.dll
+D:\Bhutan Development Bank\POSController\POSController\Logger\obj\Debug\Logger.pdb
+D:\Bhutan Development Bank\Merchant POS\POSController\POSController\Logger\bin\Debug\Logger.dll
+D:\Bhutan Development Bank\Merchant POS\POSController\POSController\Logger\bin\Debug\Logger.pdb
+D:\Bhutan Development Bank\Merchant POS\POSController\POSController\Logger\obj\Debug\Logger.dll
+D:\Bhutan Development Bank\Merchant POS\POSController\POSController\Logger\obj\Debug\Logger.pdb
+D:\Bhutan Development Bank\Merchant POS\POSController\POSController\Logger\obj\Debug\Logger.csprojResolveAssemblyReference.cache
+D:\Bhutan National Bank\Merchant POS\POSController\POSController\Logger\bin\Debug\Logger.dll
+D:\Bhutan National Bank\Merchant POS\POSController\POSController\Logger\bin\Debug\Logger.pdb
+D:\Bhutan National Bank\Merchant POS\POSController\POSController\Logger\obj\Debug\Logger.dll
+D:\Bhutan National Bank\Merchant POS\POSController\POSController\Logger\obj\Debug\Logger.pdb
+D:\Bhutan National Bank\Merchant POS\POSController\POSController\Logger\obj\Debug\Logger.csprojResolveAssemblyReference.cache
+D:\Bhutan National Bank\Other Application\GetKey_05032018\GetKey\Logger\bin\Debug\Logger.dll
+D:\Bhutan National Bank\Other Application\GetKey_05032018\GetKey\Logger\bin\Debug\Logger.pdb
+D:\Bhutan National Bank\Other Application\GetKey_05032018\GetKey\Logger\obj\Debug\Logger.dll
+D:\Bhutan National Bank\Other Application\GetKey_05032018\GetKey\Logger\obj\Debug\Logger.pdb
+D:\ASP Bank Code\State Bank Of Mauritius\Other Application\GetKey\GetKey\Logger\bin\Debug\Logger.dll
+D:\ASP Bank Code\State Bank Of Mauritius\Other Application\GetKey\GetKey\Logger\bin\Debug\Logger.pdb
+D:\ASP Bank Code\State Bank Of Mauritius\Other Application\GetKey\GetKey\Logger\obj\Debug\Logger.dll
+D:\ASP Bank Code\State Bank Of Mauritius\Other Application\GetKey\GetKey\Logger\obj\Debug\Logger.pdb
+D:\ASP Bank Code\State Bank Of Mauritius\HSMAPI\Logger\bin\Debug\Logger.dll
+D:\ASP Bank Code\State Bank Of Mauritius\HSMAPI\Logger\bin\Debug\Logger.pdb
+D:\ASP Bank Code\State Bank Of Mauritius\HSMAPI\Logger\obj\Debug\Logger.dll
+D:\ASP Bank Code\State Bank Of Mauritius\HSMAPI\Logger\obj\Debug\Logger.pdb
+D:\ASP Bank Code\State Bank Of Mauritius\HSMAPI\Logger\obj\Debug\Logger.csprojResolveAssemblyReference.cache
+D:\1.Running Code Backup and Chnages\SVN Projects\SBM\HSMAPI\HSMAPI\Logger\bin\Debug\Logger.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\SBM\HSMAPI\HSMAPI\Logger\bin\Debug\Logger.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\SBM\HSMAPI\HSMAPI\Logger\obj\Debug\Logger.csprojResolveAssemblyReference.cache
+D:\1.Running Code Backup and Chnages\SVN Projects\SBM\HSMAPI\HSMAPI\Logger\obj\Debug\Logger.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\SBM\HSMAPI\HSMAPI\Logger\obj\Debug\Logger.pdb
+D:\ASP Bank Code\State Bank Of Mauritius\Live Code\HSMAPI_Pin write\HSMAPI\Logger\bin\Debug\Logger.dll
+D:\ASP Bank Code\State Bank Of Mauritius\Live Code\HSMAPI_Pin write\HSMAPI\Logger\bin\Debug\Logger.pdb
+D:\ASP Bank Code\State Bank Of Mauritius\Live Code\HSMAPI_Pin write\HSMAPI\Logger\obj\Debug\Logger.dll
+D:\ASP Bank Code\State Bank Of Mauritius\Live Code\HSMAPI_Pin write\HSMAPI\Logger\obj\Debug\Logger.pdb
+D:\ASP Bank Code\State Bank Of Mauritius\Live Code\HSMAPI_Pin write\HSMAPI\Logger\obj\Debug\Logger.csprojResolveAssemblyReference.cache
+D:\1.Running Code Backup and Chnages\SVN Projects\SBM\HSMAPISVN\Logger\bin\Debug\Logger.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\SBM\HSMAPISVN\Logger\bin\Debug\Logger.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\SBM\HSMAPISVN\Logger\obj\Debug\Logger.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\SBM\HSMAPISVN\Logger\obj\Debug\Logger.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\SBM\HSMAPISVN\Logger\obj\Debug\Logger.csprojResolveAssemblyReference.cache
+D:\1.Running Code Backup and Chnages\SVN Projects\SBM\HSMAPISVN_Latest\Logger\bin\Debug\Logger.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\SBM\HSMAPISVN_Latest\Logger\bin\Debug\Logger.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\SBM\HSMAPISVN_Latest\Logger\obj\Debug\Logger.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\SBM\HSMAPISVN_Latest\Logger\obj\Debug\Logger.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\SBM\HSMAPISVN_Latest\Logger\obj\Debug\Logger.csprojResolveAssemblyReference.cache
+D:\Premnath\E\SBM Bank CARDE\SBM_API\Archana\HSMAPISVN_Latest\Logger\bin\Debug\Logger.dll
+D:\Premnath\E\SBM Bank CARDE\SBM_API\Archana\HSMAPISVN_Latest\Logger\bin\Debug\Logger.pdb
+D:\Premnath\E\SBM Bank CARDE\SBM_API\Archana\HSMAPISVN_Latest\Logger\obj\Debug\Logger.dll
+D:\Premnath\E\SBM Bank CARDE\SBM_API\Archana\HSMAPISVN_Latest\Logger\obj\Debug\Logger.pdb
+D:\Premnath\E\SBM Bank CARDE\SBM_API\Archana\HSMAPISVN_Latest\Logger\obj\Debug\Logger.csprojResolveAssemblyReference.cache
+D:\Premnath\E\SBM Bank CARDE\SBM_API\SBM_Cluster_Bank_CARDE_API\Logger\bin\Debug\Logger.dll
+D:\Premnath\E\SBM Bank CARDE\SBM_API\SBM_Cluster_Bank_CARDE_API\Logger\bin\Debug\Logger.pdb
+D:\Premnath\E\SBM Bank CARDE\SBM_API\SBM_Cluster_Bank_CARDE_API\Logger\obj\Debug\Logger.dll
+D:\Premnath\E\SBM Bank CARDE\SBM_API\SBM_Cluster_Bank_CARDE_API\Logger\obj\Debug\Logger.pdb
+D:\Premnath\E\SBM Bank CARDE\SBM_API\SBM_Cluster_Bank_CARDE_API\Logger\obj\Debug\Logger.csprojResolveAssemblyReference.cache
+D:\ASP Bank Code\State Bank Of Mauritius\Live Code\SBM Code\Card Control API\Raksha\Logger\bin\Debug\Logger.dll
+D:\ASP Bank Code\State Bank Of Mauritius\Live Code\SBM Code\Card Control API\Raksha\Logger\bin\Debug\Logger.pdb
+D:\ASP Bank Code\State Bank Of Mauritius\Live Code\SBM Code\Card Control API\Raksha\Logger\obj\Debug\Logger.dll
+D:\ASP Bank Code\State Bank Of Mauritius\Live Code\SBM Code\Card Control API\Raksha\Logger\obj\Debug\Logger.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\Raksha_13052021\Raksha\Logger\bin\Debug\Logger.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\Raksha_13052021\Raksha\Logger\bin\Debug\Logger.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\Raksha_13052021\Raksha\Logger\obj\Debug\Logger.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\Raksha_13052021\Raksha\Logger\obj\Debug\Logger.pdb
+D:\Premnath\E\SBM Bank CARDE\SBM_API\API\Raksha\Logger\bin\Debug\Logger.dll
+D:\Premnath\E\SBM Bank CARDE\SBM_API\API\Raksha\Logger\bin\Debug\Logger.pdb
+D:\Premnath\E\SBM Bank CARDE\SBM_API\API\Raksha\Logger\obj\Debug\Logger.dll
+D:\Premnath\E\SBM Bank CARDE\SBM_API\API\Raksha\Logger\obj\Debug\Logger.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\Raksha_API_SVN_Code_22_05_2021_6_10PM\Raksha_API_SVN_Code\Logger\bin\Debug\Logger.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\Raksha_API_SVN_Code_22_05_2021_6_10PM\Raksha_API_SVN_Code\Logger\bin\Debug\Logger.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\Raksha_API_SVN_Code_22_05_2021_6_10PM\Raksha_API_SVN_Code\Logger\obj\Debug\Logger.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\Raksha_API_SVN_Code_22_05_2021_6_10PM\Raksha_API_SVN_Code\Logger\obj\Debug\Logger.pdb
+D:\Premnath\E\SBM Bank CARDE\SBM_API\API\Raksha_API_SVN_Code\Logger\bin\Debug\Logger.dll
+D:\Premnath\E\SBM Bank CARDE\SBM_API\API\Raksha_API_SVN_Code\Logger\bin\Debug\Logger.pdb
+D:\Premnath\E\SBM Bank CARDE\SBM_API\API\Raksha_API_SVN_Code\Logger\obj\Debug\Logger.dll
+D:\Premnath\E\SBM Bank CARDE\SBM_API\API\Raksha_API_SVN_Code\Logger\obj\Debug\Logger.pdb
+D:\Premnath\E\SBM Bank CARDE\SBM_API\API\Raksha_API_SVN_Code\Logger\obj\Debug\Logger.csprojResolveAssemblyReference.cache
+D:\Premnath\E\SBM Bank CARDE\SBM_API\API\Archana\Raksha_API_SVN_Code\Logger\bin\Debug\Logger.dll
+D:\Premnath\E\SBM Bank CARDE\SBM_API\API\Archana\Raksha_API_SVN_Code\Logger\bin\Debug\Logger.pdb
+D:\Premnath\E\SBM Bank CARDE\SBM_API\API\Archana\Raksha_API_SVN_Code\Logger\obj\Debug\Logger.dll
+D:\Premnath\E\SBM Bank CARDE\SBM_API\API\Archana\Raksha_API_SVN_Code\Logger\obj\Debug\Logger.pdb
+D:\Premnath\E\SBM Bank CARDE\SBM_API\API\Raksha_SVN_Code\Logger\bin\Debug\Logger.dll
+D:\Premnath\E\SBM Bank CARDE\SBM_API\API\Raksha_SVN_Code\Logger\bin\Debug\Logger.pdb
+D:\Premnath\E\SBM Bank CARDE\SBM_API\API\Raksha_SVN_Code\Logger\obj\Debug\Logger.dll
+D:\Premnath\E\SBM Bank CARDE\SBM_API\API\Raksha_SVN_Code\Logger\obj\Debug\Logger.pdb
+D:\Premnath\E\SBM Bank CARDE\SBM_API\API\Raksha_SVN_Code\Logger\obj\Debug\Logger.csprojResolveAssemblyReference.cache
+D:\1.Running Code Backup and Chnages\SVN Projects\Raksha_API\Raksha_17082021_11_11\Raksha\Logger\bin\Debug\Logger.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\Raksha_API\Raksha_17082021_11_11\Raksha\Logger\bin\Debug\Logger.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\Raksha_API\Raksha_17082021_11_11\Raksha\Logger\obj\Debug\Logger.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\Raksha_API\Raksha_17082021_11_11\Raksha\Logger\obj\Debug\Logger.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\Raksha_API\Raksha_23082021_11_05\Raksha\Logger\bin\Debug\Logger.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\Raksha_API\Raksha_23082021_11_05\Raksha\Logger\bin\Debug\Logger.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\Raksha_API\Raksha_23082021_11_05\Raksha\Logger\obj\Debug\Logger.dll
+D:\1.Running Code Backup and Chnages\SVN Projects\Raksha_API\Raksha_23082021_11_05\Raksha\Logger\obj\Debug\Logger.pdb
+D:\1.Running Code Backup and Chnages\SVN Projects\Raksha_API\Raksha_23082021_11_05\Raksha\Logger\obj\Debug\Logger.csprojResolveAssemblyReference.cache
+D:\Premnath\Premnath_Code\SBM\SBM_API\Raksha\Logger\bin\Debug\Logger.dll
+D:\Premnath\Premnath_Code\SBM\SBM_API\Raksha\Logger\bin\Debug\Logger.pdb
+D:\Premnath\Premnath_Code\SBM\SBM_API\Raksha\Logger\obj\Debug\Logger.csprojResolveAssemblyReference.cache
+D:\Premnath\Premnath_Code\SBM\SBM_API\Raksha\Logger\obj\Debug\Logger.dll
+D:\Premnath\Premnath_Code\SBM\SBM_API\Raksha\Logger\obj\Debug\Logger.pdb
+D:\ASP\Live Code\Raksha\Logger\bin\Debug\Logger.dll
+D:\ASP\Live Code\Raksha\Logger\bin\Debug\Logger.pdb
+D:\ASP\Live Code\Raksha\Logger\obj\Debug\Logger.dll
+D:\ASP\Live Code\Raksha\Logger\obj\Debug\Logger.pdb
+D:\ASP\Live Code\Raksha\Logger\obj\Debug\Logger.csprojResolveAssemblyReference.cache
+D:\Projects\RAKSHA LATEST\Raksha\Logger\bin\Debug\Logger.dll
+D:\Projects\RAKSHA LATEST\Raksha\Logger\bin\Debug\Logger.pdb
+D:\Projects\RAKSHA LATEST\Raksha\Logger\obj\Debug\Logger.csproj.CoreCompileInputs.cache
+D:\Projects\RAKSHA LATEST\Raksha\Logger\obj\Debug\Logger.dll
+D:\Projects\RAKSHA LATEST\Raksha\Logger\obj\Debug\Logger.pdb
+D:\ASP\Live Code\Raksha_15012022_1405\Raksha\Logger\bin\Debug\Logger.dll
+D:\ASP\Live Code\Raksha_15012022_1405\Raksha\Logger\bin\Debug\Logger.pdb
+D:\ASP\Live Code\Raksha_15012022_1405\Raksha\Logger\obj\Debug\Logger.dll
+D:\ASP\Live Code\Raksha_15012022_1405\Raksha\Logger\obj\Debug\Logger.pdb
+D:\ASP\Live Code\Raksha Audit code\Raksha_05022022_1455\Raksha\Logger\bin\Debug\Logger.dll
+D:\ASP\Live Code\Raksha Audit code\Raksha_05022022_1455\Raksha\Logger\bin\Debug\Logger.pdb
+D:\ASP\Live Code\Raksha Audit code\Raksha_05022022_1455\Raksha\Logger\obj\Debug\Logger.dll
+D:\ASP\Live Code\Raksha Audit code\Raksha_05022022_1455\Raksha\Logger\obj\Debug\Logger.pdb
+D:\SBM\Raksha\Raksha\Logger\bin\Debug\Logger.dll
+D:\SBM\Raksha\Raksha\Logger\bin\Debug\Logger.pdb
+D:\SBM\Raksha\Raksha\Logger\obj\Debug\Logger.csproj.CoreCompileInputs.cache
+D:\SBM\Raksha\Raksha\Logger\obj\Debug\Logger.dll
+D:\SBM\Raksha\Raksha\Logger\obj\Debug\Logger.pdb
+D:\SBM\Raksha\Raksha\Logger\obj\Debug\Logger.csprojAssemblyReference.cache
+D:\SBM\Raksha_New\Logger\bin\Debug\Logger.dll
+D:\SBM\Raksha_New\Logger\bin\Debug\Logger.pdb
+D:\SBM\Raksha_New\Logger\obj\Debug\Logger.csproj.CoreCompileInputs.cache
+D:\SBM\Raksha_New\Logger\obj\Debug\Logger.dll
+D:\SBM\Raksha_New\Logger\obj\Debug\Logger.pdb
+D:\SBM\Raksha_New\Logger\obj\Debug\Logger.csprojAssemblyReference.cache
+D:\ASP\Live Code\Raksha_04032022_1317\Raksha\Logger\bin\Debug\Logger.dll
+D:\ASP\Live Code\Raksha_04032022_1317\Raksha\Logger\bin\Debug\Logger.pdb
+D:\ASP\Live Code\Raksha_04032022_1317\Raksha\Logger\obj\Debug\Logger.dll
+D:\ASP\Live Code\Raksha_04032022_1317\Raksha\Logger\obj\Debug\Logger.pdb
+D:\ASP\Live Code\Raksha_04032022_1317\Raksha\Logger\obj\Debug\Logger.csprojResolveAssemblyReference.cache
+D:\Raksha\Raksha\Logger\bin\Debug\Logger.dll
+D:\Raksha\Raksha\Logger\bin\Debug\Logger.pdb
+D:\Raksha\Raksha\Logger\obj\Debug\Logger.csproj.CoreCompileInputs.cache
+D:\Raksha\Raksha\Logger\obj\Debug\Logger.dll
+D:\Raksha\Raksha\Logger\obj\Debug\Logger.pdb
+D:\ASP\Live Code\Raksha_04032022_1317\Raksha_08_032022_1857\Raksha\Logger\bin\Debug\Logger.dll
+D:\ASP\Live Code\Raksha_04032022_1317\Raksha_08_032022_1857\Raksha\Logger\bin\Debug\Logger.pdb
+D:\ASP\Live Code\Raksha_04032022_1317\Raksha_08_032022_1857\Raksha\Logger\obj\Debug\Logger.dll
+D:\ASP\Live Code\Raksha_04032022_1317\Raksha_08_032022_1857\Raksha\Logger\obj\Debug\Logger.pdb
+D:\ASP\Live Code\Latest ASP Banks Code\Raksha_15062022_1110\Raksha\Logger\bin\Debug\Logger.dll
+D:\ASP\Live Code\Latest ASP Banks Code\Raksha_15062022_1110\Raksha\Logger\bin\Debug\Logger.pdb
+D:\ASP\Live Code\Latest ASP Banks Code\Raksha_15062022_1110\Raksha\Logger\obj\Debug\Logger.dll
+D:\ASP\Live Code\Latest ASP Banks Code\Raksha_15062022_1110\Raksha\Logger\obj\Debug\Logger.pdb
+D:\ASP\Live Code\Latest ASP Banks Code\Raksha_15062022_1110\Raksha\Logger\obj\Debug\Logger.csprojResolveAssemblyReference.cache
+D:\Rksha API\Raksha_020232023\Raksha\Logger\bin\Debug\Logger.dll
+D:\Rksha API\Raksha_020232023\Raksha\Logger\bin\Debug\Logger.pdb
+D:\Rksha API\Raksha_020232023\Raksha\Logger\obj\Debug\Logger.csproj.CoreCompileInputs.cache
+D:\Rksha API\Raksha_020232023\Raksha\Logger\obj\Debug\Logger.dll
+D:\Rksha API\Raksha_020232023\Raksha\Logger\obj\Debug\Logger.pdb
+D:\SVN\API\Raksha\Logger\bin\Debug\Logger.dll
+D:\SVN\API\Raksha\Logger\bin\Debug\Logger.pdb
+D:\SVN\API\Raksha\Logger\obj\Debug\Logger.csproj.CoreCompileInputs.cache
+D:\SVN\API\Raksha\Logger\obj\Debug\Logger.dll
+D:\SVN\API\Raksha\Logger\obj\Debug\Logger.pdb
+D:\SVN\API\Raksha\Logger\obj\Debug\Logger.csprojAssemblyReference.cache
+D:\SVN\API\Raksha_Bkp\Raksha\Logger\bin\Debug\Logger.dll
+D:\SVN\API\Raksha_Bkp\Raksha\Logger\bin\Debug\Logger.pdb
+D:\SVN\API\Raksha_Bkp\Raksha\Logger\obj\Debug\Logger.csproj.CoreCompileInputs.cache
+D:\SVN\API\Raksha_Bkp\Raksha\Logger\obj\Debug\Logger.dll
+D:\SVN\API\Raksha_Bkp\Raksha\Logger\obj\Debug\Logger.pdb
+D:\SVN\API\Raksha_Bkp\Raksha\Logger\obj\Debug\Logger.csprojAssemblyReference.cache
+D:\SVN\API\Raksha\Raksha\Logger\bin\Debug\Logger.dll
+D:\SVN\API\Raksha\Raksha\Logger\bin\Debug\Logger.pdb
+D:\SVN\API\Raksha\Raksha\Logger\obj\Debug\Logger.csproj.CoreCompileInputs.cache
+D:\SVN\API\Raksha\Raksha\Logger\obj\Debug\Logger.dll
+D:\SVN\API\Raksha\Raksha\Logger\obj\Debug\Logger.pdb
+D:\SVN\API\Raksha\Raksha\Logger\obj\Debug\Logger.csprojAssemblyReference.cache
+D:\SVN\API\Raksha\Raksha_29042024_1049\Raksha\Logger\bin\Debug\Logger.dll
+D:\SVN\API\Raksha\Raksha_29042024_1049\Raksha\Logger\bin\Debug\Logger.pdb
+D:\SVN\API\Raksha\Raksha_29042024_1049\Raksha\Logger\obj\Debug\Logger.csprojAssemblyReference.cache
+D:\SVN\API\Raksha\Raksha_29042024_1049\Raksha\Logger\obj\Debug\Logger.csproj.CoreCompileInputs.cache
+D:\SVN\API\Raksha\Raksha_29042024_1049\Raksha\Logger\obj\Debug\Logger.dll
+D:\SVN\API\Raksha\Raksha_29042024_1049\Raksha\Logger\obj\Debug\Logger.pdb
+D:\SVN\API\Raksha\Raksha\Raksha\Logger\bin\Debug\Logger.dll
+D:\SVN\API\Raksha\Raksha\Raksha\Logger\bin\Debug\Logger.pdb
+D:\SVN\API\Raksha\Raksha\Raksha\Logger\obj\Debug\Logger.csproj.CoreCompileInputs.cache
+D:\SVN\API\Raksha\Raksha\Raksha\Logger\obj\Debug\Logger.dll
+D:\SVN\API\Raksha\Raksha\Raksha\Logger\obj\Debug\Logger.pdb
+D:\SVN\API\Raksha\Raksha\Raksha\Logger\obj\Debug\Logger.csprojAssemblyReference.cache
+D:\SVN\API\Raksha\AbhishekSir_Rakhsa\Raksha_07052024_1025\Raksha\Logger\bin\Debug\Logger.dll
+D:\SVN\API\Raksha\AbhishekSir_Rakhsa\Raksha_07052024_1025\Raksha\Logger\bin\Debug\Logger.pdb
+D:\SVN\API\Raksha\AbhishekSir_Rakhsa\Raksha_07052024_1025\Raksha\Logger\obj\Debug\Logger.csproj.CoreCompileInputs.cache
+D:\SVN\API\Raksha\AbhishekSir_Rakhsa\Raksha_07052024_1025\Raksha\Logger\obj\Debug\Logger.dll
+D:\SVN\API\Raksha\AbhishekSir_Rakhsa\Raksha_07052024_1025\Raksha\Logger\obj\Debug\Logger.pdb
+D:\ASP\Live Code\NSDL\Raksha_14062024_1150\Raksha_07052024_1025\Raksha\Logger\bin\Debug\Logger.dll
+D:\ASP\Live Code\NSDL\Raksha_14062024_1150\Raksha_07052024_1025\Raksha\Logger\bin\Debug\Logger.pdb
+D:\ASP\Live Code\NSDL\Raksha_14062024_1150\Raksha_07052024_1025\Raksha\Logger\obj\Debug\Logger.dll
+D:\ASP\Live Code\NSDL\Raksha_14062024_1150\Raksha_07052024_1025\Raksha\Logger\obj\Debug\Logger.pdb
+D:\SVN\API\Raksha\AbhishekSir_Rakhsa\Raksha_15062024_1505_AV\Raksha\Logger\bin\Debug\Logger.dll
+D:\SVN\API\Raksha\AbhishekSir_Rakhsa\Raksha_15062024_1505_AV\Raksha\Logger\bin\Debug\Logger.pdb
+D:\SVN\API\Raksha\AbhishekSir_Rakhsa\Raksha_15062024_1505_AV\Raksha\Logger\obj\Debug\Logger.csproj.CoreCompileInputs.cache
+D:\SVN\API\Raksha\AbhishekSir_Rakhsa\Raksha_15062024_1505_AV\Raksha\Logger\obj\Debug\Logger.dll
+D:\SVN\API\Raksha\AbhishekSir_Rakhsa\Raksha_15062024_1505_AV\Raksha\Logger\obj\Debug\Logger.pdb
+D:\Projects\AES_Encrypt_Decrypt_Tool\Logger\bin\Debug\Logger.dll
+D:\Projects\AES_Encrypt_Decrypt_Tool\Logger\bin\Debug\Logger.pdb
+D:\Projects\AES_Encrypt_Decrypt_Tool\Logger\obj\Debug\Logger.csproj.CoreCompileInputs.cache
+D:\Projects\AES_Encrypt_Decrypt_Tool\Logger\obj\Debug\Logger.dll
+D:\Projects\AES_Encrypt_Decrypt_Tool\Logger\obj\Debug\Logger.pdb
+D:\Projects\AES_Encrypt_Decrypt_Tool\Logger\obj\Debug\Logger.csprojAssemblyReference.cache
+D:\Tool\AES_Encrypt_Decrypt_Tool\Logger\bin\Debug\Logger.dll
+D:\Tool\AES_Encrypt_Decrypt_Tool\Logger\bin\Debug\Logger.pdb
+D:\Tool\AES_Encrypt_Decrypt_Tool\Logger\obj\Debug\Logger.csprojAssemblyReference.cache
+D:\Tool\AES_Encrypt_Decrypt_Tool\Logger\obj\Debug\Logger.csproj.CoreCompileInputs.cache
+D:\Tool\AES_Encrypt_Decrypt_Tool\Logger\obj\Debug\Logger.dll
+D:\Tool\AES_Encrypt_Decrypt_Tool\Logger\obj\Debug\Logger.pdb

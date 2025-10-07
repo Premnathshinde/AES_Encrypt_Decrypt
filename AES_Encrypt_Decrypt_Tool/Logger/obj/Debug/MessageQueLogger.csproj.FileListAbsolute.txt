@@ -1,0 +1,14 @@
+D:\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\New Solution_Abhishek.V\MessageQue\MessageQueLogger\bin\Debug\MessageQue.MessageQueLogger.dll
+D:\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\New Solution_Abhishek.V\MessageQue\MessageQueLogger\bin\Debug\MessageQue.MessageQueLogger.pdb
+D:\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\New Solution_Abhishek.V\MessageQue\MessageQueLogger\bin\Debug\SwitchCommonDetails.dll
+D:\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\New Solution_Abhishek.V\MessageQue\MessageQueLogger\bin\Debug\SwitchCommonDetails.pdb
+D:\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\New Solution_Abhishek.V\MessageQue\MessageQueLogger\obj\Debug\MessageQueLogger.csprojResolveAssemblyReference.cache
+D:\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\New Solution_Abhishek.V\MessageQue\MessageQueLogger\obj\Debug\MessageQue.MessageQueLogger.dll
+D:\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\New Solution_Abhishek.V\MessageQue\MessageQueLogger\obj\Debug\MessageQue.MessageQueLogger.pdb
+D:\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\Host Interface\MessageQue\MessageQueLogger\bin\Debug\MessageQue.MessageQueLogger.dll
+D:\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\Host Interface\MessageQue\MessageQueLogger\bin\Debug\MessageQue.MessageQueLogger.pdb
+D:\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\Host Interface\MessageQue\MessageQueLogger\bin\Debug\SwitchCommonDetails.dll
+D:\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\Host Interface\MessageQue\MessageQueLogger\bin\Debug\SwitchCommonDetails.pdb
+D:\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\Host Interface\MessageQue\MessageQueLogger\obj\Debug\MessageQueLogger.csprojResolveAssemblyReference.cache
+D:\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\Host Interface\MessageQue\MessageQueLogger\obj\Debug\MessageQue.MessageQueLogger.dll
+D:\Abhishek.V\New Switch\Live Code\Final Code\MaximusSwitchApplications\Host Interface\MessageQue\MessageQueLogger\obj\Debug\MessageQue.MessageQueLogger.pdb
